@@ -1,5 +1,5 @@
-**Basic-Banking-system
-**Internship by Sparks Foundation
+**Basic-Banking-system**
+**Internship by Sparks Foundation**
 
 **Stack used** - 
 Front-end : HTML, CSS, Bootstrap & Javascript 
