@@ -1,4 +1,5 @@
 **Basic-Banking-system**
+
 **Internship by Sparks Foundation**
 
 **Stack used** - 
@@ -6,12 +7,12 @@ Front-end : HTML, CSS, Bootstrap & Javascript
 Back-end : PHP 
 Database : MySQL 
 
-Created a simple dynamic website which has the following specs.
+-->Created a simple dynamic website which has the following specs.
 
-Start with creating a dummy data in database for upto 10
+-->Start with creating a dummy data in database for upto 10
 customers.
 
-Customers table will have basic fields such as name, email,
+-->Customers table will have basic fields such as name, email,
 current balance etc. Transfers table will record all transfers
 happened.
 
